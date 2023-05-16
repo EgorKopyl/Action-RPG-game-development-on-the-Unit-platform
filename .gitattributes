@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+Mythical filter=lfs diff=lfs merge=lfs -text
+dungeon.apk filter=lfs diff=lfs merge=lfs -text
+Mythicaldungeon.apk filter=lfs diff=lfs merge=lfs -text
+MythicalDungeon.apk filter=lfs diff=lfs merge=lfs -text
